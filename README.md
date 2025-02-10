@@ -1,4 +1,4 @@
-# DECODE: Data Preparation for Hospital Length of Stay Prediction
+# DECODE
 # Equitable Hospital Length of Stay Prediction for Patients with Learning Disabilities and Multiple Long-term Conditions Using Machine Learning
 
 This is the Python repository for the paper ["Equitable Hospital Length of Stay Prediction for Patients with Learning Disabilities and Multiple Long-term Conditions Using Machine Learning"](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1538793/abstract).\
